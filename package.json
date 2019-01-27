@@ -1,0 +1,19 @@
+{
+  "name": "nc-art",
+  "version": "0.0.1",
+  "description": "Generative art inspired by the network canvas project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jthrilly/nc-art.git"
+  },
+  "author": "Joshua Melville <joshmelville@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jthrilly/nc-art/issues"
+  },
+  "homepage": "https://github.com/jthrilly/nc-art#readme"
+}
